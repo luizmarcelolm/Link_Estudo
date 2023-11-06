@@ -1,6 +1,8 @@
 # Aplicação de cadastro de Link para estudo
 
-# Nesse projeto uitlizei asp.net mvc Entity Framework para criação do banco de dados e páginas estilizando com bootstrap o layout.
+# Nesse projeto uitilizei asp.net mvc e Entity Framework para criação do banco de dados e páginas. No layout das view foi utilizado boostrap.
+
+# Senti a necessidade da criação dessa aplicação devido um problema que eu tinha em guardar links e páginas durante a criação de um projeto e estudos, esse projeto me possibilitou guardar essas informações e me dando fácil acesso com pesquisa sobre determinado assundo cadastrado anteriormente, assim posso relembrar conceitos aplicados em cada projeto, mesmo depois de bastante tempo.
 
 # Página inicial da aplicação.
 ![image](https://github.com/luizmarcelolm/Link_Estudo/assets/109484017/7676bb4c-af9f-4d99-9633-646745901046)
